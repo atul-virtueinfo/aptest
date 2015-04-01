@@ -1,1 +1,1 @@
-This is testing first commit in master
+This is testing first commit in test2
